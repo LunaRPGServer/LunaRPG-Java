@@ -1,0 +1,10 @@
+main: me.SyaRi.LunaRPG
+name: ${project.artifactId}
+version: ${project.version}
+api-version: 1.13
+author: sya_ri
+website: luna-rpg.net
+description: For LunaRPG Server
+commands:
+  luna:
+    description: Main Command
